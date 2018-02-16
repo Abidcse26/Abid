@@ -1,0 +1,17 @@
+/*
+Theme Name: Demo Theme
+Theme URI: http://codersbd.com/
+Author: Khandaker Akash
+Author URI: http://codersbd.com/
+Description: This is just demo theme!
+License: GNU General Public License
+License URI: http://codersbd.com/
+Tags: blog, ecommerce, slide-bar
+Text Domain: DemoTheme
+*/
+
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #F77777;
+}
